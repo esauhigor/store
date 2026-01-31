@@ -1,0 +1,14 @@
+C:\Users\higor\unity\story\story\obj\Debug\net10.0\story.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\higor\unity\story\story\obj\Debug\net10.0\story.AssemblyInfoInputs.cache
+C:\Users\higor\unity\story\story\obj\Debug\net10.0\story.AssemblyInfo.cs
+C:\Users\higor\unity\story\story\obj\Debug\net10.0\story.csproj.CoreCompileInputs.cache
+C:\Users\higor\unity\story\story\bin\Debug\net10.0\story.exe
+C:\Users\higor\unity\story\story\bin\Debug\net10.0\story.deps.json
+C:\Users\higor\unity\story\story\bin\Debug\net10.0\story.runtimeconfig.json
+C:\Users\higor\unity\story\story\bin\Debug\net10.0\story.dll
+C:\Users\higor\unity\story\story\bin\Debug\net10.0\story.pdb
+C:\Users\higor\unity\story\story\obj\Debug\net10.0\story.dll
+C:\Users\higor\unity\story\story\obj\Debug\net10.0\refint\story.dll
+C:\Users\higor\unity\story\story\obj\Debug\net10.0\story.pdb
+C:\Users\higor\unity\story\story\obj\Debug\net10.0\story.genruntimeconfig.cache
+C:\Users\higor\unity\story\story\obj\Debug\net10.0\ref\story.dll
